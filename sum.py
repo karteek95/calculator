@@ -1,2 +1,2 @@
 print("Hello World")
-print('5 + 7 = ',5+7)
+print('5 + 10 = ',5+10)
